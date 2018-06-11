@@ -1,0 +1,8 @@
+// Imports all SCSS files to one main folder.
+
+@import "base/reset";
+@import "base/typography";
+
+@import "layout/page";
+
+@import "module/header";
